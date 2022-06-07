@@ -1,4 +1,4 @@
-# leviland
+# levilang
 This's my programm language.
-Leviland - language for server.
+Levilang - language for server.
 My language similar mcdos!
