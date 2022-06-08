@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 #define gotoxy(x,y) printf("\033[%d;%dH", (y), (x))
 
 #include "h.h"

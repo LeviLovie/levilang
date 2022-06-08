@@ -7,7 +7,7 @@ using namespace std;
 
 void sin()
 {
-    string user
+    string user;
     cout << "Users:" << endl;
 
     string line;

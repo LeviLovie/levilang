@@ -6,7 +6,6 @@ using namespace std;
 void com()
 {
     string com;
-
     while (com != "end")
     {
         cout << "levilang < ";
